@@ -7,7 +7,7 @@ During the studies on fundamentals of CSS, the site was created to demonstrate p
 https://codepen.io/celiceceron/full/GRXJZEg
 
 ## Gif demonstration
-![Web 1]()
+![Web 1](https://github.com/celiceceron/surveyProject/blob/7a69f07a799c018b48c3924dca08b7e7207cb2c5/web%20page.gif)
 
 
 # Technologies and tools I use
